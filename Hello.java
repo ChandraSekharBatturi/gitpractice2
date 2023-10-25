@@ -2,6 +2,6 @@ class Hello
 {
 	public status void main(String[]args)
 	{
-		System.out.print("Hello Chandu");
+		System.out.print("Hello2");
 	}
 }
